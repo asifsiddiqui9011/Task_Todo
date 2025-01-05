@@ -1,0 +1,19 @@
+[
+  {
+    "id": 1,
+    "username": "john_doe",
+    "password": "$2a$10$8eJ5Uox8gOPDfBI.Jzn5dOilEL5YGKO/YMpDVSWh3r6Npyz5F15Me"
+  },
+  {
+    "id": 2,
+    "email": "john.doe@example.com",
+    "username": "johndoe",
+    "password": "$2a$10$1EXYTc47SWSTB/seq26QJuVKj9X231Sim8umdHUBwk8GOqQqjhcHu"
+  },
+  {
+    "id": 3,
+    "email": "jane11.doe@example.com",
+    "username": "johndoe11",
+    "password": "$2a$10$G03cd.0KFtLxp.myjkykkeDXI7b4OJQnAMWrVmGADq4.N4lU61jFW"
+  }
+]
