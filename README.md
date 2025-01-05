@@ -1,4 +1,4 @@
-# Hyrist Application
+# Task_Todo Application
 
 ## Overview
 Task is a powerful and flexible application designed to help users manage their tasks efficiently. This README provides an overview of the application, installation instructions, and usage guidelines.
@@ -12,12 +12,10 @@ Task is a powerful and flexible application designed to help users manage their 
 To install the Task application, follow these steps:
 
 1. Clone the repository:
-    ```bash
-    git clone https://github.com/yourusername/hyrist.git
-    ```
+   
 2. Navigate to the project directory:
     ```bash
-    cd hyrist
+    cd task_Todo
     ```
 3. Install the dependencies:
     ```bash
